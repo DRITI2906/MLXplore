@@ -39,7 +39,7 @@ Main Purpose: MLXplore allows users to explore and experiment with various machi
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/JeetGupta2506/MLXplore.git
+   git clone https://github.com/DRITI2906/MLXplore.git
    cd MLXplore
    ```
 2. **Setup Backend**:
@@ -79,7 +79,7 @@ Main Purpose: MLXplore allows users to explore and experiment with various machi
 
 Created by Jeet Gupta . Connect with me on 
 
-- [GitHub](https://github.com/JeetGupta2506)
-- [LinkedIn](https://www.linkedin.com/in/jeet-gupta-559099295)
-- [Email](mailto:guptajeet2506@gmail.com)
+- [GitHub](https://github.com/DRITI2906)
+- [LinkedIn](https://www.linkedin.com/in/driti-rathod-ab038a294/)
+- [Email](mailto:dritirathod2906@gmail.com)
 
