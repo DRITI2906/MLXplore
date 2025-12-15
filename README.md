@@ -77,7 +77,7 @@ Main Purpose: MLXplore allows users to explore and experiment with various machi
 
 ## Developers Information
 
-Created by Jeet Gupta . Connect with me on 
+Created by Driti Rathod . Connect with me on 
 
 - [GitHub](https://github.com/DRITI2906)
 - [LinkedIn](https://www.linkedin.com/in/driti-rathod-ab038a294/)
