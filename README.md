@@ -34,6 +34,20 @@ Main Purpose: MLXplore allows users to explore and experiment with various machi
 
 🌐 https://ml-xplore-omega.vercel.app/  
 
+
+## 🎯 Why MLXplore?
+
+- Makes machine learning experimentation more accessible.
+- No need to write boilerplate ML code — just configure and run.
+- Useful for: Students learning ML concepts. 
+
+## Screenshots
+
+![Screenshot 5](screenshots/5.png)
+![Screenshot 1](screenshots/1.png)
+![Screenshot 3](screenshots/3.png)
+![Screenshot 4](screenshots/4.png)
+
 ## ⚙️ Installation
 
 1. **Clone the Repository**:
@@ -59,21 +73,6 @@ Main Purpose: MLXplore allows users to explore and experiment with various machi
    npm install 
    npm start
    ``` 
-
-## 🎯 Why MLXplore?
-
-- Makes machine learning experimentation more accessible.
-- No need to write boilerplate ML code — just configure and run.
-- Useful for: Students learning ML concepts. 
-
-## Screenshots
-
-![Screenshot 5](screenshots/5.png)
-![Screenshot 1](screenshots/1.png)
-![Screenshot 3](screenshots/3.png)
-![Screenshot 4](screenshots/4.png)
-
-
 
 ## Developers Information
 
